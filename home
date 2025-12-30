@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Amaia Fitzwilliam</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <h1>Amaia Fitzwilliam</h1>
+    <p>Economics & Art History | Applied AI for Finance, Research & IP</p>
+  </header>
+
+  <section>
+    <h2>About</h2>
+    <p>
+      I am an Economics and Art History student applying AI tools to financial analysis,
+      research workflows, and intellectual property contexts. My interests include
+      wealth management, strategy, and ethical decision-making.
+    </p>
+    <p>
+      CFA Program – Level I (Planned)
+    </p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>
+        <strong>AI Financial Scenario Analysis</strong><br />
+        Evaluated portfolio risk under macroeconomic scenarios using AI-assisted workflows.
+      </li>
+      <li>
+        <strong>IP & Trademark Risk Mapping</strong><br />
+        Applied semantic AI tools to identify potential brand and trademark risks.
+      </li>
+      <li>
+        <strong>Automated Research Workflow</strong><br />
+        Built AI-assisted pipelines for document extraction and synthesis.
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/YOURLINK">LinkedIn</a> |
+      <a href="mailto:youremail@email.com">Email</a> |
+      <a href="https://github.com/yourusername">GitHub</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2025 Amaia Fitzwilliam</p>
+  </footer>
+</body>
+</html>
+
